@@ -1,3 +1,4 @@
+gem 'puma'
 source "https://rubygems.org"
 
 # A DSL for quickly creating web applications
